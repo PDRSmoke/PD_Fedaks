@@ -1,2 +1,3 @@
 # PD_Fedaks
-Patstāvīgais praktiskais darbs programmēšanā.
+Patstavigais praktiskais darbs programmesana.
+Patstavigais darbs platforma GitHub ar versiju kontroles sistemu Git
